@@ -1,0 +1,29 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+#container{
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+}
+
+#newElements {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ h3{
+     font-weight: bold;
+ }
+
+img {
+    width: 100%;
+    height: 200px;
+}
